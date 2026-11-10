@@ -1,0 +1,217 @@
+{
+ "captured_at": "2026-11-10 14:04:45",
+ "totals": {
+  "ccb": 43,
+  "abc": 98,
+  "all": 141
+ },
+ "ccb": {
+  "total": 43,
+  "urban_core": 23,
+  "county": 20,
+  "township": 12,
+  "districts_covered": 12,
+  "nearest": {
+   "mean_m": 2418,
+   "median_m": 998,
+   "p90_m": 6076,
+   "min_m": 397,
+   "max_m": 19554
+  },
+  "centroid": [
+   112.595597,
+   26.824502
+  ],
+  "bbox": {
+   "minLng": 112.089520115662,
+   "maxLng": 112.949871,
+   "minLat": 26.392282,
+   "maxLat": 27.2451699513331
+  },
+  "mean_dist_to_center_km": 22.2,
+  "max_dist_to_center_km": 62.3
+ },
+ "abc": {
+  "total": 98,
+  "urban_core": 28,
+  "county": 70,
+  "township": 62,
+  "districts_covered": 12,
+  "nearest": {
+   "mean_m": 6051,
+   "median_m": 2398,
+   "p90_m": 12772,
+   "min_m": 266,
+   "max_m": 20653
+  },
+  "centroid": [
+   112.557074,
+   26.838447
+  ],
+  "bbox": {
+   "minLng": 111.651336,
+   "maxLng": 113.192691,
+   "minLat": 26.238388,
+   "maxLat": 27.403596
+  },
+  "mean_dist_to_center_km": 33.6,
+  "max_dist_to_center_km": 91.3
+ },
+ "ratio": 2.28,
+ "by_district": {
+  "珠晖区": {
+   "code": "430405",
+   "is_urban_core": true,
+   "ccb": 5,
+   "abc": 6
+  },
+  "雁峰区": {
+   "code": "430406",
+   "is_urban_core": true,
+   "ccb": 4,
+   "abc": 4
+  },
+  "石鼓区": {
+   "code": "430407",
+   "is_urban_core": true,
+   "ccb": 5,
+   "abc": 7
+  },
+  "蒸湘区": {
+   "code": "430408",
+   "is_urban_core": true,
+   "ccb": 9,
+   "abc": 11
+  },
+  "南岳区": {
+   "code": "430412",
+   "is_urban_core": false,
+   "ccb": 1,
+   "abc": 1
+  },
+  "衡阳县": {
+   "code": "430421",
+   "is_urban_core": false,
+   "ccb": 3,
+   "abc": 14
+  },
+  "衡南县": {
+   "code": "430422",
+   "is_urban_core": false,
+   "ccb": 2,
+   "abc": 12
+  },
+  "衡山县": {
+   "code": "430423",
+   "is_urban_core": false,
+   "ccb": 1,
+   "abc": 6
+  },
+  "衡东县": {
+   "code": "430424",
+   "is_urban_core": false,
+   "ccb": 2,
+   "abc": 8
+  },
+  "祁东县": {
+   "code": "430426",
+   "is_urban_core": false,
+   "ccb": 3,
+   "abc": 11
+  },
+  "耒阳市": {
+   "code": "430481",
+   "is_urban_core": false,
+   "ccb": 5,
+   "abc": 10
+  },
+  "常宁市": {
+   "code": "430482",
+   "is_urban_core": false,
+   "ccb": 3,
+   "abc": 8
+  }
+ },
+ "districts": {
+  "430405": "珠晖区",
+  "430406": "雁峰区",
+  "430407": "石鼓区",
+  "430408": "蒸湘区",
+  "430412": "南岳区",
+  "430421": "衡阳县",
+  "430422": "衡南县",
+  "430423": "衡山县",
+  "430424": "衡东县",
+  "430426": "祁东县",
+  "430481": "耒阳市",
+  "430482": "常宁市"
+ },
+ "city_center": [
+  112.5717,
+  26.893
+ ],
+ "close_pairs_500m": 34,
+ "close_pairs_300m": 14,
+ "close_pairs_200m": 8,
+ "closest_pairs": [
+  {
+   "ccb": "建行衡东支行",
+   "abc": "衡东支行营业室",
+   "m": 49
+  },
+  {
+   "ccb": "建行衡阳东阳渡支行",
+   "abc": "衡阳新湘支行",
+   "m": 68
+  },
+  {
+   "ccb": "建行常宁水口山支行",
+   "abc": "常宁水口山支行",
+   "m": 71
+  },
+  {
+   "ccb": "建行衡阳雁峰支行",
+   "abc": "衡阳雁峰支行营业室",
+   "m": 94
+  },
+  {
+   "ccb": "建行西渡蒸阳支行",
+   "abc": "衡阳豪塘支行",
+   "m": 124
+  },
+  {
+   "ccb": "建行衡阳华新支行",
+   "abc": "衡阳华新支行",
+   "m": 143
+  },
+  {
+   "ccb": "建行衡阳潇湘街支行",
+   "abc": "衡阳中山北路分理处",
+   "m": 151
+  },
+  {
+   "ccb": "建行衡阳平湖支行",
+   "abc": "衡阳平湖支行",
+   "m": 170
+  },
+  {
+   "ccb": "建行衡阳市分行",
+   "abc": "衡阳常胜西路分理处",
+   "m": 228
+  },
+  {
+   "ccb": "建行衡阳火车站支行",
+   "abc": "衡阳火车站分理处",
+   "m": 233
+  }
+ ],
+ "township_by_bank": {
+  "ccb": 12,
+  "abc": 62
+ },
+ "sources": {
+  "ccb": "中国建设银行官网「网点及ATM查询」https://www.ccb.com/cn/home/map/branchSearch.html （接口 TXCODE=NZX013，ADiv_Cd=430400，营业网点）",
+  "abc": "中国农业银行官网「营业机构查询」https://app.abchina.com.cn/branch/ （接口 /mobileSite/Branch/mobileSearchBranch，cityId=430400，营业网点）"
+ },
+ "crs": "GCJ-02（建行页面显式声明 BMAP_COORD_GCJ02；农行与建行同址网点距离中位数 <200m，判定同属 GCJ-02）"
+}

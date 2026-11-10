@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>衡阳 · 建行 vs 农行 网点卫星图鉴</title>
+<link rel="stylesheet" href="./vendor/maplibre-gl.css">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div id="stage">
+  <div id="wrapA" class="mapwrap"><div id="mapA" class="map"></div></div>
+  <div id="wrapB" class="mapwrap"><div id="mapB" class="map"></div></div>
+  <canvas id="fx" width="1920" height="1080"></canvas>
+
+  <div id="dim"></div>
+  <div id="tint"></div>
+  <div id="vignette"></div>
+  <div id="grain"></div>
+
+  <div id="brand"><span class="dot"></span><span>衡阳 · 银行网点卫星图鉴</span><span class="sep"></span><span>CCB × ABC</span></div>
+
+  <div id="titleCard">
+    <div class="kicker">DATA STORY · HENGYANG</div>
+    <h1>同一个衡阳<br><em>两套银行棋局</em></h1>
+    <div class="rule"></div>
+    <div class="sub">建设银行 <b class="cb">43</b> 个营业网点 &nbsp;·&nbsp; 农业银行 <b class="ab">98</b> 个营业网点</div>
+  </div>
+
+  <div id="counterBox">
+    <div class="lbl">营业网点</div>
+    <div><span class="num">0</span><span class="unit">家</span></div>
+  </div>
+
+  <div id="legend">
+    <div class="item ccb"><span class="sw"></span>中国建设银行 <span class="n" id="lgCcb">43</span></div>
+    <div class="item abc"><span class="sw"></span>中国农业银行 <span class="n" id="lgAbc">98</span></div>
+  </div>
+
+  <div id="comparePanel">
+    <div class="head">
+      <div class="t">各区县网点数量</div>
+      <div class="k"><span class="d c"></span>建行 <span class="d a"></span>农行</div>
+    </div>
+    <div class="rows" id="cmpRows"></div>
+    <div class="foot">
+      <div class="cell"><div class="k">市区四区占比</div><div class="v c">53.5%</div></div>
+      <div class="cell"><div class="k">市区四区占比</div><div class="v a">28.6%</div></div>
+      <div class="cell"><div class="k">网点总数</div><div class="v">43<span>:</span>98</div></div>
+    </div>
+  </div>
+
+  <div id="pairCard">
+    <div class="tag">最近的一对网点</div>
+    <div class="dist">49<span>米</span></div>
+    <div class="names">
+      <div class="n ccb"><span class="sw"></span>建行衡东支行</div>
+      <div class="n abc"><span class="sw"></span>衡东支行营业室</div>
+    </div>
+    <div class="addr">衡东县城关镇 / 洣水镇 兴衡西路 15 号 与 17 号<br>门对门，同一条街。</div>
+  </div>
+
+  <div id="rhythmPanel">
+    <div class="card"><div class="k">网点间距中位数</div><div class="v c">998<span>米</span></div><div class="note">建行 · 主城加密</div></div>
+    <div class="card"><div class="k">网点间距中位数</div><div class="v a">2398<span>米</span></div><div class="note">农行 · 县域铺网</div></div>
+  </div>
+
+  <div id="endCard">
+    <div class="k">HENGYANG · 2026</div>
+    <h2><span class="c">建行守城</span><span class="g"> · </span><span class="a">农行下乡</span></h2>
+    <div class="line"></div>
+    <div class="src">
+      数据来源：<b>中国建设银行官网「网点及ATM查询」</b> · <b>中国农业银行官网「营业机构查询」</b><br>
+      统计口径：衡阳市辖 12 个区县市，营业网点（不含自助银行 / ATM），采集于 2026-11-10<br>
+      卫星影像：高德地图 · 坐标系 GCJ-02
+    </div>
+  </div>
+
+  <div id="caption"></div>
+</div>
+
+<script src="./vendor/maplibre-gl.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>

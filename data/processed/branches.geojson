@@ -1,0 +1,3255 @@
+{
+ "type": "FeatureCollection",
+ "name": "hengyang_bank_branches",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.089520115662,
+     26.7917952858247
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430647037",
+    "name": "建行祁东玉合支行",
+    "address": "湖南省衡阳市祁东县玉合街道永昌大道168号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-6267564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.111614,
+     26.786162
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430647039",
+    "name": "建行祁东中心市场支行",
+    "address": "湖南省衡阳市祁东县洪桥镇县正西路209号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-6266154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.120669,
+     26.784457
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430647036",
+    "name": "建行祁东支行",
+    "address": "湖南省衡阳市祁东县洪桥镇县正东路238号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-6267754"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.371826,
+     26.969367
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646538",
+    "name": "建行西渡蒸阳支行",
+    "address": "湖南省衡阳市衡阳县西渡镇新正街（金盾大厦A栋）",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-6811172"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.375456,
+     26.96533
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646536",
+    "name": "建行衡阳西渡支行",
+    "address": "湖南省衡阳市衡阳县西渡镇春风东路38号",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-6811501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.399618,
+     26.408368
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646936",
+    "name": "建行常宁支行",
+    "address": "湖南省衡阳市常宁市宜阳镇群英东路",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-7222887"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.400797,
+     26.398874
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646938",
+    "name": "建行常宁泉峰支行",
+    "address": "湖南省衡阳市常宁市青阳南路",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-7249131"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.404239,
+     26.960406
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646540",
+    "name": "建行西渡红山路支行",
+    "address": "湖南省衡阳市衡阳县西渡镇红山北路(聚丰景都楼盘2栋142室)",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-6819056"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.49622,
+     26.871084
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430202939",
+    "name": "建行衡南三塘支行",
+    "address": "湖南省衡阳市衡南县三塘镇衡祁东路（璟泰明珠）101室",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-8788866"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.548687,
+     26.892545
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645936",
+    "name": "建行衡阳解放大道支行",
+    "address": "湖南省衡阳市蒸湘区解放大道47号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.552742382756,
+     26.896996670261
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430647236",
+    "name": "建行衡阳采霞街支行",
+    "address": "湖南省衡阳市蒸湘区华新街道采霞街30号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.558678,
+     26.901847
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644536",
+    "name": "建行衡阳蒸湘支行",
+    "address": "湖南省衡阳市蒸湘区华兴街道48号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.563544888087,
+     26.8933398343667
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644336",
+    "name": "建行衡阳光辉路支行",
+    "address": "湖南省衡阳市蒸湘区光辉路1号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181783"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.563738,
+     26.912711
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645536",
+    "name": "建行衡阳船山大道支行",
+    "address": "湖南省衡阳市蒸湘区船山大道20号西子莲花10号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181780"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.571491,
+     26.902266
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645636",
+    "name": "建行衡阳平湖支行",
+    "address": "湖南省衡阳市湖南衡阳高新技术产业园区长湖北街18号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181775"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.573975541739,
+     26.893569123717
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644436",
+    "name": "建行衡阳华新支行",
+    "address": "湖南省衡阳市蒸湘区解放大道12号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181823"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.577513,
+     26.589032
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646937",
+    "name": "建行常宁水口山支行",
+    "address": "湖南省衡阳市常宁市松柏镇渡口路与常青路交汇处",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-7511393"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.592456,
+     26.906705
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644636",
+    "name": "建行衡阳红湘路支行",
+    "address": "湖南省衡阳市蒸湘区红湘北路76号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181752"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.599918000616,
+     26.9005220000911
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644236",
+    "name": "建行衡阳市分行",
+    "address": "湖南省衡阳市蒸湘区蒸湘北路35号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181865"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.600238,
+     26.905789
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644736",
+    "name": "建行衡阳晶珠支行",
+    "address": "湖南省衡阳市石鼓区蒸湘北路51号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181685"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.605289249201,
+     26.8845271725918
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645436",
+    "name": "建行衡阳回雁支行",
+    "address": "湖南省衡阳市雁峰区打线坪68号世纪名城H栋1楼",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181806"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.607049,
+     26.893794
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646236",
+    "name": "建行衡阳雁峰支行",
+    "address": "湖南省衡阳市雁峰区环城南路183号",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181832"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.60826,
+     26.899363
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646036",
+    "name": "建行衡阳石鼓支行",
+    "address": "湖南省衡阳市石鼓区常胜中路2号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181855"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.612299,
+     26.906446
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645836",
+    "name": "建行衡阳潇湘街支行",
+    "address": "湖南省衡阳市石鼓区中山北路98号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.612714,
+     26.896851
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646436",
+    "name": "建行衡阳解放路支行",
+    "address": "湖南省衡阳市石鼓区解放路24号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181995"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.614713,
+     26.91873
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430640850",
+    "name": "建行衡阳五一路支行",
+    "address": "湖南省衡阳市石鼓区建设路2号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181723"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.623570325111,
+     26.9070615201739
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644136",
+    "name": "建行衡阳粤新路支行",
+    "address": "湖南省衡阳市珠晖区粤新路红星菜园50号",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181736"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.626133,
+     26.887094
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646136",
+    "name": "建行衡阳珠晖支行",
+    "address": "湖南省衡阳市珠晖区东风支路16号",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181849"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.627873,
+     26.863963
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645336",
+    "name": "建行衡阳黄白路支行",
+    "address": "湖南省衡阳市雁峰区黄白路165号",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181675"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.629906,
+     26.888279
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645036",
+    "name": "建行衡阳火车站支行",
+    "address": "湖南省衡阳市珠晖区东风南路火车站广场创富大厦一楼门面",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181801"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.642943681607,
+     26.8811483666047
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430645236",
+    "name": "建行衡阳苗圃支行",
+    "address": "湖南省衡阳市珠晖区乐群里166号",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181765"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.642981,
+     26.85287
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644836",
+    "name": "建行衡阳白沙洲支行",
+    "address": "湖南省衡阳市雁峰区黄白路32号",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.659786,
+     26.800328
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430644936",
+    "name": "建行衡阳东阳渡支行",
+    "address": "湖南省衡阳市珠晖区东阳渡二七二厂内",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-8181731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.667569,
+     26.745386
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430647136",
+    "name": "建行衡阳衡南支行",
+    "address": "湖南省衡阳市衡南县云集镇云集大道38号（衡南县商业步行街一期5号楼）1177室",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-8556595"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.730947588661,
+     27.2451699513331
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646736",
+    "name": "建行南岳支行",
+    "address": "湖南省衡阳市南岳区金沙路82号",
+    "district_code": "430412",
+    "district": "南岳区",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-5661155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.84218530361,
+     26.4078638171623
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646336",
+    "name": "建行耒阳支行",
+    "address": "湖南省衡阳市耒阳市蔡子池办事处金盆居委会五一东路137号",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-4332084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.850541,
+     26.413488
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646338",
+    "name": "建行衡阳耒阳城关支行",
+    "address": "湖南省衡阳市耒阳市城北中路1号",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-4332007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.851561849301,
+     26.4226852812017
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646341",
+    "name": "建行耒阳蓝天支行",
+    "address": "湖南省衡阳市耒阳市五里牌街道办事处栖凤园居委会金阳东路258号金阳新城一楼",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-4332892"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.853745,
+     26.392282
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646337",
+    "name": "建行耒阳电厂支行",
+    "address": "湖南省衡阳市耒阳市群英南路和西湖东路交汇处金悦学府1层105-108号门面",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-4305400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.858205193416,
+     26.4105973523868
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646342",
+    "name": "建行耒阳金山支行",
+    "address": "湖南省衡阳市耒阳市蔡子池办事处化龙居委会金山路133号",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "营业网点",
+    "phone": "0734-4335384"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.870905,
+     27.233666
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646636",
+    "name": "建行衡山支行",
+    "address": "湖南省衡阳市衡山县开云镇义安路79号",
+    "district_code": "430423",
+    "district": "衡山县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-5888068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.948689,
+     27.081188
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646836",
+    "name": "建行衡东支行",
+    "address": "湖南省衡阳市衡东县城关镇兴衡西路15号",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-5222619"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.949871,
+     27.089631
+    ]
+   },
+   "properties": {
+    "bank": "CCB",
+    "bank_name": "中国建设银行",
+    "id": "430646837",
+    "name": "建行衡阳衡东云鼎支行",
+    "address": "湖南省衡阳市衡东县城关镇衡岳北路云鼎大厦1楼",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "营业网点",
+    "phone": "0734-5384283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.374768,
+     26.400212
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182707",
+    "name": "常宁城西支行",
+    "address": "湖南省衡阳市常宁市培元办事处西二环西侧玉虹豪庭御樽苑11栋110-112室",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-7238850"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.395421,
+     26.407757
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182708",
+    "name": "常宁宜阳支行",
+    "address": "常宁市宜阳镇群英东路5号",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-7221397"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.401586,
+     26.402012
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182709",
+    "name": "常宁支行营业室",
+    "address": "常宁市宜阳镇青阳南路1号",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "支行营业室",
+    "phone": "0734-7221715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.478896,
+     26.543439
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182718",
+    "name": "常宁柏坊支行",
+    "address": "湖南省衡阳市常宁市柏坊镇新街市场",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-7611212"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.577511,
+     26.588397
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182727",
+    "name": "常宁水口山支行",
+    "address": "湖南省衡阳市常宁市水口山镇渡口路",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-7511378"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.265336,
+     26.278589
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182738",
+    "name": "常宁洋泉支行",
+    "address": "常宁市洋泉镇",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-7771503"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.628078,
+     26.371529
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182728",
+    "name": "常宁荫田支行",
+    "address": "湖南省衡阳市常宁市荫田镇西门造",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-7661212"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.651336,
+     26.887812
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182817",
+    "name": "祁东太和堂支行",
+    "address": "祁东县太和堂镇正街1号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6390059"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.194679,
+     26.544811
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182788",
+    "name": "祁东归阳支行",
+    "address": "湖南省祁东县归阳镇前进街108号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6312339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.108118,
+     26.78794
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182759",
+    "name": "祁东支行营业室",
+    "address": "祁东县洪桥镇石门路78号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "支行营业室",
+    "phone": "0734-6264463"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.761304,
+     26.922194
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182808",
+    "name": "祁东步云桥支行",
+    "address": "祁东县步云桥镇田心村4组",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6370031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.311052,
+     26.496331
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182787",
+    "name": "祁东河洲支行",
+    "address": "祁东县河洲镇中心街132号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6300189"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.12705,
+     26.78356
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182758",
+    "name": "祁东洪城支行",
+    "address": "湖南省祁东县洪桥镇县正东路57号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6264983"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.092053,
+     26.791744
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182777",
+    "name": "祁东洪桥支行",
+    "address": "祁东县洪桥镇莲花西路649号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6264786"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.936812,
+     26.779994
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182798",
+    "name": "祁东白地市支行",
+    "address": "祁东县白地市镇上游东路9号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6352468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.104365,
+     26.662458
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182797",
+    "name": "祁东过水坪支行",
+    "address": "祁东县过水坪镇中心街74号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6336349"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.176869,
+     26.696643
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182778",
+    "name": "祁东金桥支行",
+    "address": "祁东县金桥镇黄土岭街52号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6320007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.878651,
+     26.886991
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182807",
+    "name": "祁东黄土铺支行",
+    "address": "祁东县黄土铺镇马路街68号",
+    "district_code": "430426",
+    "district": "祁东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6360045"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.111875,
+     26.453604
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182877",
+    "name": "耒阳东湖分理处",
+    "address": "湖南省耒阳市东湖乡圩上",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-4880033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.849346,
+     26.42442
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182838",
+    "name": "耒阳五里牌分理处",
+    "address": "耒阳市五里牌办事处神农路与白云路交叉口",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-4360741"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.681564,
+     26.294886
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182867",
+    "name": "耒阳仁义分理处",
+    "address": "耒阳市仁义乡仁义村6组",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-4841014"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.028223,
+     26.370345
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182868",
+    "name": "耒阳夏塘分理处",
+    "address": "耒阳市夏塘镇夏塘村夏塘圩上",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-4862327"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.850078,
+     26.409236
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182819",
+    "name": "耒阳支行营业室",
+    "address": "耒阳市蔡子池办事处西湖居委会五一东路253号",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "支行营业室",
+    "phone": "0734-4332986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.929989,
+     26.604105
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182857",
+    "name": "耒阳新市分理处",
+    "address": "耒阳市新市镇新市村半边街",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-4900331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.82657,
+     26.40398
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182847",
+    "name": "耒阳灶市分理处",
+    "address": "耒阳市灶市街办事处车站居委会五一中路110号",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-4307444"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.856971,
+     26.390943
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182828",
+    "name": "耒阳竹海分理处",
+    "address": "湖南省衡阳市耒阳市蔡子池街道办事处金南居委会西湖南路和谐花苑1号楼",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-4335066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.853368,
+     26.414456
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182827",
+    "name": "耒阳纸都支行",
+    "address": "湖南省耒阳市神农路与城北路叉口",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-4336588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.839583,
+     26.411784
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182866",
+    "name": "耒阳西湖支行",
+    "address": "耒阳市蔡子池办事处西湖居委会西湖路与城北路交叉路口",
+    "district_code": "430481",
+    "district": "耒阳市",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-4332039"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.950941,
+     27.077633
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182658",
+    "name": "衡东城关支行",
+    "address": "湖南省衡阳市衡东县洣水镇南正街",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5225359"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.781063,
+     26.994418
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182667",
+    "name": "衡东大浦支行",
+    "address": "湖南省衡阳市衡东县大浦镇浦园东街",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5375374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.948321,
+     27.08089
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182659",
+    "name": "衡东支行营业室",
+    "address": "湖南省衡阳市衡东县洣水镇兴衡西路17号",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "支行营业室",
+    "phone": "0734-5225349"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.881789,
+     27.215578
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182687",
+    "name": "衡东新塘支行",
+    "address": "衡东县新塘镇晓霞路",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5384589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.136279,
+     27.162526
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182697",
+    "name": "衡东杨桥支行",
+    "address": "湖南省衡阳市衡东县杨桥镇人民路17号",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5348155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.954728,
+     27.296423
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182678",
+    "name": "衡东石湾支行",
+    "address": "湖南省衡阳市衡东县石湾镇东风路",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5323526"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.94817,
+     27.086191
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182666",
+    "name": "衡东米蓝支行",
+    "address": "湖南省衡阳市衡东县洣水镇北正街4号",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5222339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.192691,
+     26.902405
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182668",
+    "name": "衡东草市支行",
+    "address": "湖南省衡阳市衡东县草市镇新建路80号",
+    "district_code": "430424",
+    "district": "衡东县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5368021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.490285,
+     26.867286
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182498",
+    "name": "衡南三塘支行",
+    "address": "衡南县三塘镇",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-8722347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.674342,
+     26.745034
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182538",
+    "name": "衡南云集支行",
+    "address": "衡南县云集镇云集大道（南国明珠5栋）",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-8550571"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.88979,
+     26.711285
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182537",
+    "name": "衡南冠市支行",
+    "address": "湖南省衡阳市衡南县冠市镇商贸路、凌波大道交汇十字路口18栋商住楼117、118、119号门面",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-8766371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.728213,
+     26.715381
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182488",
+    "name": "衡南向阳支行",
+    "address": "衡南县向阳镇",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-8742372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.24884,
+     26.8435
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182477",
+    "name": "衡南岐山分理处",
+    "address": "衡南县鸡笼镇",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-8772372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.679289,
+     26.742626
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182479",
+    "name": "衡南支行营业室",
+    "address": "湖南省衡阳市衡南县云集镇雅园路",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "支行营业室",
+    "phone": "0734-8556581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.461138,
+     26.707481
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182528",
+    "name": "衡南硫市分理处",
+    "address": "衡南县硫市镇",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-8782364"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.003654,
+     26.824554
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182507",
+    "name": "衡南花桥分理处",
+    "address": "衡南县花桥镇新街",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-8761111"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.361009,
+     26.689101
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182517",
+    "name": "衡南茅市分理处",
+    "address": "衡南县茅市镇茅市街",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-8776372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.756248,
+     26.763216
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182527",
+    "name": "衡南茶市分理处",
+    "address": "衡南县茶市镇",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-8757551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.590087,
+     26.760844
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182478",
+    "name": "衡南车江支行",
+    "address": "衡南县车江镇",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-8732372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.587265,
+     27.291277
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182638",
+    "name": "衡山东湖支行",
+    "address": "湖南省衡山县东湖镇育英街",
+    "district_code": "430423",
+    "district": "衡山县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5985305"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.868408,
+     27.229928
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182619",
+    "name": "衡山支行营业室",
+    "address": "湖南省衡山县开云镇解放南路101号",
+    "district_code": "430423",
+    "district": "衡山县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "支行营业室",
+    "phone": "0734-5813276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.5304,
+     27.37161
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182647",
+    "name": "衡山新桥支行",
+    "address": "湖南省衡山县新桥镇上街组",
+    "district_code": "430423",
+    "district": "衡山县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5976079"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.636856,
+     27.403596
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182637",
+    "name": "衡山白果支行",
+    "address": "湖南省衡山县白果镇涓水东路226号",
+    "district_code": "430423",
+    "district": "衡山县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5914353"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.862302,
+     27.247924
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182617",
+    "name": "衡山经开区支行",
+    "address": "湖南省衡阳市衡山县开云镇衡山大道盛豪世纪城3、4栋113-116室",
+    "district_code": "430423",
+    "district": "衡山县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5812891"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.612074,
+     26.905104
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182472",
+    "name": "衡阳中山北路分理处",
+    "address": "衡阳市中山北路77号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8711324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.059324,
+     26.918427
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182556",
+    "name": "衡阳关市分理处",
+    "address": "衡阳县关市乡",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-6561169"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.591901,
+     26.893003
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182499",
+    "name": "衡阳分行营业部",
+    "address": "湖南省衡阳市蒸湘区解放西路46号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "二级分行营业室",
+    "phone": "0734-8150940"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.575415,
+     26.893449
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183051",
+    "name": "衡阳华新支行",
+    "address": "湖南省衡阳市高新区解放大道6号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-8851003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.589399,
+     26.923227
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182421",
+    "name": "衡阳华源分理处",
+    "address": "湖南省衡阳市石鼓区华源支路1号耀兴华瑞园33号楼104-1、104-2室",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8190341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.732877,
+     27.240308
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182469",
+    "name": "衡阳南岳支行营业室",
+    "address": "湖南省衡阳市南岳区祝融路191号",
+    "district_code": "430412",
+    "district": "南岳区",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "支行营业室",
+    "phone": "0734-5662301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.413434,
+     27.055909
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182566",
+    "name": "衡阳台源分理处",
+    "address": "衡阳县台源镇",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-6801012"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.586203,
+     26.90762
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183052",
+    "name": "衡阳宏豪分理处",
+    "address": "衡阳市蒸湘区立新开发区道源路立新六巷左侧一层",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8801826"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.600551,
+     26.898547
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183082",
+    "name": "衡阳常胜西路分理处",
+    "address": "湖南省衡阳市石鼓区蒸湘北路14号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8839497"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.573191,
+     26.902102
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182413",
+    "name": "衡阳平湖支行",
+    "address": "湖南省衡阳市高新开发区祝融路6号",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "单点支行",
+    "phone": "0734-8150975"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.635288,
+     26.858002
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182424",
+    "name": "衡阳意中分理处",
+    "address": "湖南省衡阳市雁峰区黄白路106号",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8492281"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.387209,
+     26.957732
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182549",
+    "name": "衡阳支行营业室",
+    "address": "湖南省衡阳市衡阳县西渡镇蒸阳大道221号",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "支行营业室",
+    "phone": "0734-6813479"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.660469,
+     26.800329
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182451",
+    "name": "衡阳新湘支行",
+    "address": "湖南省衡阳市珠晖区新湘街",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-8363314"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.378209,
+     26.961767
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182558",
+    "name": "衡阳新街支行",
+    "address": "衡阳县西渡镇蒸阳东路9号",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6812608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.27378,
+     27.149431
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182588",
+    "name": "衡阳洪市支行",
+    "address": "衡阳县洪市洪双北路",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-6872352"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.409636,
+     27.173379
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182597",
+    "name": "衡阳渣江支行",
+    "address": "衡阳县渣江镇",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6891024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.622805,
+     26.897303
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182882",
+    "name": "衡阳滨江支行",
+    "address": "湖南省衡阳市珠晖区东风北路142号",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-8331661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.263566,
+     27.024392
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182577",
+    "name": "衡阳演陂分理处",
+    "address": "衡阳县演陂镇衡邵路8号",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-6856334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.62815,
+     26.88967
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182872",
+    "name": "衡阳火车站分理处",
+    "address": "湖南省衡阳市珠晖区东风北路2号",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8343686"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.62669,
+     26.891682
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182879",
+    "name": "衡阳珠晖支行营业室",
+    "address": "湖南省衡阳市珠晖区东风北路38号",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "支行营业室",
+    "phone": "0734-8345342"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.549586,
+     27.219392
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182598",
+    "name": "衡阳界牌分理处",
+    "address": "衡阳县界牌镇",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-6885681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.609925,
+     26.896562
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183019",
+    "name": "衡阳石鼓支行营业室",
+    "address": "湖南省衡阳市石鼓区解放路42号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "支行营业室",
+    "phone": "0734-8262243"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.552227,
+     26.903251
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183029",
+    "name": "衡阳祝融支行",
+    "address": "湖南省衡阳市高新区蒸水大道48号香江.水岸新城六期30B栋118、119、120室",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "单点支行",
+    "phone": "0734-8246127"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.606317,
+     26.903409
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183049",
+    "name": "衡阳红湘分理处",
+    "address": "湖南省衡阳市石鼓区船山路34号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8293914"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.59207,
+     26.901702
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183041",
+    "name": "衡阳船山分理处",
+    "address": "衡阳市红湘北路55号凯富红叶大厦",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8843658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.633807,
+     26.883196
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182891",
+    "name": "衡阳茅坪支行",
+    "address": "湖南省衡阳市珠晖区东风南路93号",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-8348151"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.696053,
+     26.928019
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182452",
+    "name": "衡阳茶山坳分理处",
+    "address": "湖南省衡阳市珠晖区茶山坳镇",
+    "district_code": "430405",
+    "district": "珠晖区",
+    "is_urban_core": true,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-8301909"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.602024,
+     26.891128
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182429",
+    "name": "衡阳蒸湘支行营业室",
+    "address": "衡阳市蒸湘南路杏花村",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "支行营业室",
+    "phone": "0734-8273325"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.410718,
+     26.954133
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182557",
+    "name": "衡阳蒸溪分理处",
+    "address": "湖南省衡阳市衡阳县西渡镇蒸阳大道以北与开福路以西交接处西北角（新时代广场预测）18幢106室",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "分理处",
+    "phone": "0734-6815908"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.6125,
+     26.922499
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183089",
+    "name": "衡阳蒸阳支行",
+    "address": "湖南省衡阳市石鼓区五一路67号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "单点支行",
+    "phone": "0734-8516148"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.37058,
+     26.969271
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182548",
+    "name": "衡阳豪塘支行",
+    "address": "衡阳县西渡镇新正西路16号",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6811670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.559203,
+     26.893297
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183001",
+    "name": "衡阳进步支行",
+    "address": "湖南省衡阳市高新区解放大道38号博达绿岛一楼",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-8822075"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.103245,
+     27.121952
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182587",
+    "name": "衡阳金兰支行",
+    "address": "衡阳县金兰镇延寿路",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6864033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.568032,
+     26.907221
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183063",
+    "name": "衡阳长丰分理处",
+    "address": "湖南省衡阳市蒸湘区长丰大道49号天伦百汇6号楼102-105室",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8228180"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.146927,
+     26.960278
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182568",
+    "name": "衡阳长乐支行",
+    "address": "衡阳县井头镇井头街3号",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6855169"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.547168,
+     26.883532
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183021",
+    "name": "衡阳陆家新区支行",
+    "address": "湖南省衡阳市蒸湘区杨柳路39号特变水木融城西北角商业101-102室",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "二级支行",
+    "phone": "0734-8225998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.606468,
+     26.89765
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182419",
+    "name": "衡阳雁北支行",
+    "address": "湖南省衡阳市石鼓区环城北路14号",
+    "district_code": "430407",
+    "district": "石鼓区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "单点支行",
+    "phone": "0734-8241644"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.607289,
+     26.894613
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183071",
+    "name": "衡阳雁峰支行营业室",
+    "address": "湖南省衡阳市雁峰区环城南路166号",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "支行营业室",
+    "phone": "0734-8255888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.595733,
+     27.03744
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182607",
+    "name": "衡阳集兵支行",
+    "address": "衡阳县集兵镇集兵街",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6846568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.613797,
+     26.889569
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183072",
+    "name": "衡阳首峰分理处",
+    "address": "湖南省衡阳市雁峰区雁城路22号",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8121816"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.552732,
+     26.894124
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "183079",
+    "name": "衡阳高新支行营业室",
+    "address": "衡阳市蒸湘区解放大道48号锦绣明珠",
+    "district_code": "430408",
+    "district": "蒸湘区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "支行营业室",
+    "phone": "0734-8213686"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.616482,
+     26.871557
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182441",
+    "name": "衡阳黄茶岭分理处",
+    "address": "湖南省衡阳市雁峰区黄白路273号汇方雁归来8号楼103-105室",
+    "district_code": "430406",
+    "district": "雁峰区",
+    "is_urban_core": true,
+    "is_township": false,
+    "level": "分理处",
+    "phone": "0734-8414354"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.469673,
+     26.238388
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182716",
+    "name": "常宁罗桥支行",
+    "address": "常宁市罗桥镇罗市村六组",
+    "district_code": "430482",
+    "district": "常宁市",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-7501926"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.740833,
+     26.870833
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182476",
+    "name": "衡南泉溪支行",
+    "address": "湖南省衡阳市衡南县泉溪镇玉泉西路7号103室",
+    "district_code": "430422",
+    "district": "衡南县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-8013258"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.751266,
+     27.093584
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182646",
+    "name": "衡山萱洲支行",
+    "address": "湖南省衡阳市衡山县萱洲镇萱洲村七组13号",
+    "district_code": "430423",
+    "district": "衡山县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-5820757"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.204822,
+     27.058959
+    ]
+   },
+   "properties": {
+    "bank": "ABC",
+    "bank_name": "中国农业银行",
+    "id": "182586",
+    "name": "衡阳库宗桥支行",
+    "address": "湖南省衡阳市衡阳县库宗桥镇中心学校办公楼一楼",
+    "district_code": "430421",
+    "district": "衡阳县",
+    "is_urban_core": false,
+    "is_township": true,
+    "level": "二级支行",
+    "phone": "0734-6633717"
+   }
+  }
+ ]
+}

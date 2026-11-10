@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+output/tilecache/
+output/preview/
+output/audio/*.wav
+output/audio/*.mp3
+output/*.log
+output/*.png
+output/video_raw.mp4
+output/video_full.mp4
+output/part1.mp4
+output/part2.mp4
+output/test_seg.mp4
+output/concat.txt
+.DS_Store
