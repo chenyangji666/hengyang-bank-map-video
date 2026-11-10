@@ -19,6 +19,7 @@ for sc in tl["scenes"]:
         lines.append(f"{i}\n{ts(c['start'])} --> {ts(c['end'])}\n{c['text']}\n")
         i += 1
 
-out = os.path.join(ROOT, "output", "hengyang_banks.srt")
+out = os.path.join(ROOT, "output", "subtitles", "hengyang_banks.srt")
+os.makedirs(os.path.dirname(out), exist_ok=True)
 open(out, "w", encoding="utf-8").write("\n".join(lines))
 print("saved", out, i - 1, "cues")
