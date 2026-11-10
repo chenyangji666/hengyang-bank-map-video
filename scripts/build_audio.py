@@ -103,8 +103,8 @@ def main():
         labels.append(f"[n{i}]")
 
     filt = ";".join(filters)
-    filt += ";[0:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,volume=0.40[bed]"
-    filt += ";" + "".join(labels) + "[bed]amix=inputs=%d:normalize=0,alimiter=limit=0.92[aout]" % (len(labels) + 1)
+    filt += ";[0:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,volume=0.09[bed]"
+    filt += ";" + "".join(labels) + "[bed]amix=inputs=%d:normalize=0,alimiter=limit=0.95,loudnorm=I=-16:TP=-1.5:LRA=11[aout]" % (len(labels) + 1)
 
     out = os.path.join(ROOT, "output", "audio", "mix.wav")
     cmd = [FF, "-y", "-i", bed_path] + inputs + [

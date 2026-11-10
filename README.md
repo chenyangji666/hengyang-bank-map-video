@@ -70,8 +70,8 @@
 - **底图**：高德卫星影像（`webst0x.is.autonavi.com`，GCJ-02，与网点坐标同系），本地缓存到 `output/tilecache/`
 - **渲染**：MapLibre GL 负责相机与卫星图层，Canvas 2D 叠加光点/边界/标注；页面暴露 `window.renderAt(t)`，所有动画只由时间 `t` 决定，因此可以逐帧确定性截图
 - **录制**：Playwright（Chromium + SwiftShader）逐帧截图，直接管道送进 ffmpeg，不落中间图
-- **旁白**：edge-tts `zh-CN-YunjianNeural`，按音频实际时长反推时间轴
-- **配乐**：numpy 合成的低频铺底 + 场景切换 whoosh，混在旁白下方约 -20 dB
+- **旁白**：edge-tts `zh-CN-XiaoxiaoNeural`（晓晓，自然人声），按音频实际时长反推时间轴；换音色时用 `scripts/revoice.py` 自动调速，保证每句都塞进已渲染视频的场景窗口
+- **配乐**：numpy 合成的低频铺底 + 场景切换 whoosh，压到旁白下方约 17 dB，不抢人声
 
 > 踩过的坑：叠加图层是全透明时，Chrome 会把这层画布从合成里剔除，截图就会一直停留在上一帧（表现为标题页叠着上一场景的光点）。解决办法是每帧在画布角落画一个 alpha=0.004 的像素，让它永远"非空"。见 `src/app.js` 里的注释。
 
@@ -106,6 +106,7 @@ python scripts/analyze.py
 
 # 3) 生成旁白与时间轴
 python scripts/tts.py
+#    只换音色、不想重剪画面时：python scripts/revoice.py（自动调速塞进原场景窗口）
 
 # 4) 启动本地服务（静态文件 + 卫星瓦片缓存）
 python scripts/serve.py 8765

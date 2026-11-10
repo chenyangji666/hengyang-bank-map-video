@@ -13,3 +13,5 @@ output/part2.mp4
 output/test_seg.mp4
 output/concat.txt
 .DS_Store
+output/*.wav
+output/timeline_backup.json
